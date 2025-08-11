@@ -2,7 +2,7 @@
 
 **Credit Card Fraud Detection** is a Machine Learning project designed to detect fraudulent credit card transactions using anonymized real-world data. The project demonstrates how to handle imbalanced datasets, apply resampling techniques like SMOTE, and evaluate classification models for fraud detection.
 
-This project showcases a full ML workflow using Scikit-learn and includes model export and manual prediction simulation for further integration or deployment.
+This project showcases a full ML workflow using Scikit-Learn and includes model export and manual prediction simulation for further integration or deployment.
 
 ---
 
