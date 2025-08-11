@@ -43,9 +43,7 @@ The dataset is sourced from:
 - Features: 28 anonymized PCA features (`V1–V28`), `Amount`, and `Time`  
 - Target column: `Class` (`0` = Legitimate, `1` = Fraud)  
 
-The credit card transaction dataset used in this project is large (over 140 MB) and **not included** in this repository.
-
-You can **download the dataset for free from Kaggle**.
+The credit card transaction dataset used in this project is large (over 140 MB) and **not included** in this repository. You can download the dataset for free from Kaggle.
 
 ---
 
